@@ -1,0 +1,9 @@
+.form {
+  border: 1px solid blueviolet; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box;
+  background-color: aqua;
+}
+.div {
+  background-color: aqua;
+}
